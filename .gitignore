@@ -1,3 +1,6 @@
+# Sensitive files
+.clasp.json
+
 # Logs
 logs
 *.log
